@@ -40,7 +40,7 @@ I Can Search!🔍 mdisk links 😜
 
 please share this bot with your friends 💓
 
-<a>Made With ❤ By @hari_813</a></b>
+<a>Made With ❤ By @arya_bro</a></b>
 """
 
 
@@ -53,7 +53,7 @@ I Can Search!🔍 What You Want?😜
 
 please share this bot with your friends 💓
 
-<a>Made With ❤ By @hari_813</a></b>
+<a>Made With ❤ By @arya_bro</a></b>
 """
 
 
